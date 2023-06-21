@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48331029178",
+    "firebase_url": "https://fatorfit-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fatorfit",
+    "storage_bucket": "fatorfit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48331029178:android:8022a2a658672d06e52083",
+        "android_client_info": {
+          "package_name": "com.example.fatorfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48331029178-f4s6jhn4q3jknnca2vl3eo8og7polsm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fatorfit",
+            "certificate_hash": "c5d80b65ad7a84dc879b270e64221579ab8f39b2"
+          }
+        },
+        {
+          "client_id": "48331029178-qsbc691t2gmnqc8acrvr6tafogpgrb8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQtRVrulYbIg4szTL47h4nuquDXD4td0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48331029178-ie0r5p51e7jrniem4ci96vqhl9hcfils.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48331029178-anc0hbumkvvt5103gq5rasmc5eb15a5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fatorfit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
